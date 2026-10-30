@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/chinyo",
  "yomi": "ちんよほういんわか",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "未詳",
+  "author": "珍誉",
+  "desc": "法印珍誉の和歌を四季・恋・雑に分けて収めた小さな集。宿曜の労によって法印を望んだ折の歌を含み、末尾に珍誉の系譜を付す。"
+ },
  "editions": [
   {
    "pid": "936505",
